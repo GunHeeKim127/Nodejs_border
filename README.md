@@ -7,6 +7,7 @@ npm init
 <br>
 
 # Nodejs package 설치
+![image](https://user-images.githubusercontent.com/53036090/209468634-3893fe84-711d-4e8c-a6ed-fa767acba411.png)
 ```js
 npm install express
 npm install mysql
@@ -30,3 +31,6 @@ npm install body-parser
 &nbsp;2)Logic 과 Markup 을 깔끔하게 분리 할 수 있다. {{ }} 안에 있는 것이 Logic 이다.
 <br>(참조)https://velog.io/@parkoon/%EC%8B%A4%EB%AC%B4%EC%97%90%EC%84%9C-Handlebars-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-feat-express)
 <br>
+
+# gitignore 작성
+1. node-modules, gitattrbuts, package.json
